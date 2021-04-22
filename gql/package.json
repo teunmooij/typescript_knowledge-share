@@ -1,0 +1,19 @@
+{
+  "name": "gql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-datasource": "^0.8.0",
+    "apollo-server": "^2.22.2",
+    "foobar-ipsum": "^1.0.3",
+    "graphql": "^15.5.0"
+  },
+  "scripts": {
+    "start": "tsc && node dist/index.js",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}
