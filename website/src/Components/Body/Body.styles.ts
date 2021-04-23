@@ -5,7 +5,7 @@ export const useStyles = makeStyles((theme) => ({
     padding: theme.spacing(2),
   },
   disclaimer: {
-    position: 'absolute',
+    position: 'fixed',
     paddingLeft: theme.spacing(2),
     top: 'calc(100vh - 50px)',
   },

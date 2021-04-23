@@ -7,7 +7,7 @@ This repository was created for the knowledge share 'Typescript: Types demystifi
 The graphql server was created in Javascript and then migrated to Typescript. In this repository you'll find a basic setup to run and debug a server written in Typescript.
 
 The website contains examples of the Typescript type system. A good starting point is the Examples folder.
-
+The website was only intended to be used for the knowledge share and is best viewed on a QHD (1440p) screen.
 
 -----------------------------------
 

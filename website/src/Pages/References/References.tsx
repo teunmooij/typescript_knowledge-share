@@ -28,6 +28,15 @@ export const References = () => {
           You can find the examples shown in the knowledge share in the
           repository.
         </Item>
+        <Item
+          className={classes.margin}
+          icon={<Avatar alt="Federico" src="federico.jpg" />}
+        >
+          <Typography variant="h4" className={classes.link}>
+            @federico ++
+          </Typography>{' '}
+          for your help and your patience.
+        </Item>
       </List>
     </>
   )
